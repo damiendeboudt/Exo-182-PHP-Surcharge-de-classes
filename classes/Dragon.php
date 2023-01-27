@@ -13,7 +13,6 @@ class Dragon extends Personnage {
         // Je vais définir x et y aléatoirement entre 1 et 900
         $this->x = rand(1,900);
         $this->y = rand(1,900);
-
         $this->vie = 100;
     }
 

@@ -17,6 +17,7 @@ class Personnage {
         $this->x = 0;
         $this->y = 0;
         $this->vie = 50;
+        $this->id = 1;
     }
 
     // Méthode permettant de déplacer le personnage vers la droite
